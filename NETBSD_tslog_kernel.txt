@@ -1,0 +1,55 @@
+0x0 151832240 ENTER main
+0x2 169178804 THREAD idle/0
+0x3 169188780 THREAD softnet/0
+0x4 169206580 THREAD softbio/0
+0x5 169220677 THREAD softclk/0
+0x6 169235336 THREAD softser/0
+0x7 169251875 THREAD xcall/0
+0x8 169286997 THREAD modunload
+0x9 169340303 THREAD pooldisp
+0xa 170452360 THREAD iflnkst
+0xb 170457285 THREAD ifwdog
+0xc 170464665 THREAD sopendfree
+0xd 170478345 THREAD pmfevent
+0xe 170483448 THREAD pmfsuspend
+0x0 172999535 ENTER config_attach_internal mainbus
+0x0 174973733 ENTER config_attach_internal cpu
+0x0 206482737 EXIT config_attach_internal
+0x0 207289537 ENTER config_attach_internal ioapic
+0x0 455482283 EXIT config_attach_internal
+0x0 455540956 ENTER config_attach_internal isa
+0x0 457387779 ENTER config_attach_internal com
+0x0 481480821 EXIT config_attach_internal
+0x0 481484278 EXIT config_attach_internal
+0x0 481486248 ENTER config_attach_internal pv
+0x0 482036341 ENTER config_attach_internal virtio
+0x0 486796165 ENTER config_attach_internal ld
+0x0 616713286 EXIT config_attach_internal
+0x0 616717150 EXIT config_attach_internal
+0x0 616732039 ENTER config_attach_internal pvclock
+0x0 633355600 EXIT config_attach_internal
+0x0 633360595 EXIT config_attach_internal
+0x0 633369077 EXIT config_attach_internal
+0xf 633429338 THREAD entbutler
+0x1 763832592 THREAD configintr
+0x1e 763845893 THREAD configintr
+0x1d 763860414 THREAD configintr
+0x1c 763872529 THREAD configintr
+0x1b 763882224 THREAD configintr
+0x1a 763891718 THREAD configintr
+0x19 763905236 THREAD configintr
+0x18 763914766 THREAD configintr
+0x18 763963667 THREAD vmem_rehash
+0x19 764084485 THREAD rt_timer
+0x1a 764097656 THREAD icmp_wqinput/0
+0x1b 764327051 THREAD nd6_timer
+0x1c 764426095 THREAD icmp6_wqinput/0
+0x1d 764458453 THREAD unpgc
+0x1e 764477567 THREAD rt_free
+0x34 776135215 THREAD configroot
+0x37 776156164 THREAD configroot
+0x31 776575078 THREAD pgdaemon
+0x32 776587477 THREAD ioflush
+0x33 776604773 THREAD pooldrain
+0x0 776619821 EXIT main
+0x37 1088703234 THREAD physiod
